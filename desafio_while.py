@@ -1,6 +1,6 @@
 #Julieta Yañez
 
-limite_empleados = 3
+limite_empleados = 10
 contador_empleados = 0
 
 contador_empleados_iot_ia = 0
